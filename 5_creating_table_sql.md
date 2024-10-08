@@ -70,7 +70,7 @@ DESCRIBE student;
 ```
   - describes the table we created
   - If the table is not created or deleted, 
-                     error will be - ``ER_NO_SUCH_TABLE : Table 'db_name.table_name' doesn't exsit``
+                     error will be - ``ER_NO_SUCH_TABLE : Table 'db_name.table_name' doesn't exsit``              
 ____________________________________________________________________________
 
 **DELETE AND MODIFY THE TABLE**
