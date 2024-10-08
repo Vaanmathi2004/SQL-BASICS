@@ -74,7 +74,6 @@ DESCRIBE student;
 ____________________________________________________________________________
 
 **DELETE AND MODIFY THE TABLE**
-
 * DELETE:
 
 ```SQL
