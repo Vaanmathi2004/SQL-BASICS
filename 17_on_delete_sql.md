@@ -1,7 +1,7 @@
 # ON DELETE
-- Deleting entries in the database when they have foreign keys associated to them.
 - In company database, we have complex database schema. We have all sorts of foreign keys that are linking between all sorts of tables.
-- It's extremely  useful when we're defining foreign key relationships between tables.
+- `ON DELETE` is a clause used in foreign key relationships to specify what happens to child records when a parent record is deleted. 
+- ON DELETE extremely useful when we're defining foreign key relationships between tables.
 
 `1.ON DELETE SET
 NULL` 
