@@ -1,4 +1,5 @@
 # ER DIAGRAMS
+- ER refers to `Entity relationship`
 - When you're designing a database, one of the important thing is designing a database schema.
 - We can use ER diagram to act as a middleman between the database or storage requirements and the actual database schema.
 - ER diagram is a great way to take the data storage requirements like business requirements and convert them into an actual database schema.
