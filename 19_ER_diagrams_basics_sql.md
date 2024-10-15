@@ -79,7 +79,7 @@ ___
 - When we have two entity, we want to define relationships between those entities.
 - Relationship is the shape of diamond connecting both the entities.
 
-`takes`
+`takes`   - verbal
 
   Ex: students is going to take class, class can be taken by the student. (student and class are related in both the ways)
 
